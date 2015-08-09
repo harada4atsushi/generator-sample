@@ -1,0 +1,2 @@
+class MogeController < ApplicationController
+end
